@@ -16,8 +16,8 @@ The system simulates a real restaurant environment where customers can browse me
 
 ## Team Members
 
-- Jana Hassan Algarni
 - Leen Abdulrahman Hadari
+- Jana Hassan Algarni
 - Asma Abbas Albeshri
 - Lujain Abdullah Alqahtani
 - Najaf Abdulaziz Al-Mohsen
