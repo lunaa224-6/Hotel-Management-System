@@ -1,84 +1,59 @@
-# Legends Restaurant System 🍽️
+# Hotel Management System 🏨
 
-A full-stack restaurant takeaway and delivery management system developed using Django.
+A hotel management system developed using Java as part of an Object-Oriented Programming course project.
 
-The system simulates a real restaurant environment where customers can browse menu items, place takeaway or delivery orders, and track their order status. Staff members manage incoming orders, while managers control menu items, users, and restaurant operations through dedicated dashboards.
+The project simulates hotel operations such as room management, customer handling, booking processes, and reservation tracking while applying core OOP concepts.
 
 ---
 
 ## Course Information
 
-- **Course:** CSC 305 – Software Engineering
-- **Academic Year:** 2025 / 2026
-- **Project Type:** Academic Group Project
+- **Course:** Object-Oriented Programming (OOP)
+- **Project Type:** Academic Project
 
 ---
 
 ## Team Members
 
 - Leen Abdulrahman Hadari
-- Jana Hassan Algarni
-- Asma Abbas Albeshri
-- Lujain Abdullah Alqahtani
-- Najaf Abdulaziz Al-Mohsen
-- Shahad Saeed Al-Shahrani
 
 ---
 
 ## Features ✨
 
-### Customer Features
-- User registration and login
-- Browse restaurant menu
-- Add items to cart
-- Update or remove cart items
-- Checkout and payment process
-- Track order status
-- View order history
+- Room management
+- Customer management
+- Reservation handling
+- Booking operations
+- Simple hotel administration system
 
-### Staff Features
-- View customer orders
-- Update order status
-- Manage ongoing orders
+---
 
-### Manager Features
-- Manage users
-- Add and edit menu items
-- Control menu availability
-- Monitor restaurant operations
+## OOP Concepts Used
+
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Constructors
+- Methods
 
 ---
 
 ## Technologies Used 💻
 
-- Python
-- Django
-- HTML
-- CSS
-- JavaScript
-- SQLite3
-- Git & GitHub
-
----
-
-## System Roles
-
-The system supports three main roles:
-
-- Customer
-- Staff
-- Manager
-
-A custom user model is implemented to support role-based access and additional user information.
+- Java
+- NetBeans
+- Object-Oriented Programming Principles
 
 ---
 
 ## Project Structure
 
 ```txt
-Legends_Restaurant/
+HotelSystem/
 │
-├── legends/
-├── restaurant/
-├── media/
+├── src/
+├── build/
+├── nbproject/
 ├── manage.py
